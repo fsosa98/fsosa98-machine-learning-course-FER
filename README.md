@@ -1,2 +1,2 @@
-# fsosa98-machine-learning-course-FER
+# machine-learning-course-FER
 Machine Learning Course Programing Assignments
